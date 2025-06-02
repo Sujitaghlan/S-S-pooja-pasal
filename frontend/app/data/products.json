@@ -1,0 +1,45 @@
+[
+  {
+  "id": 101,
+  "name": "chamba",
+  "price": "Rs. 120",
+  "category": "deathItems",
+  "quantity": "1 kg", 
+  "image": "/images/logo.png"
+  },
+  {
+    "id": 101,
+    "name": "chamba",
+    "price": "Rs. 120",
+    "category": "deathItems",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+  {
+    "id": 102,
+    "name": "dhoop",
+    "price": "Rs. 20",
+    "category": "dhoop",
+    "quantity": "1 packet", 
+    "image": "/images/logo.png"
+  },
+  {
+    "id": 103,
+    "name": "lungdar",
+    "price": "Rs. 190",
+    "quantity": "1 piece",
+    "category": "lungdar", 
+    "image": "/images/logo.png"
+  },
+  {
+    "id": 104,
+    "name": "khada",
+    "price": "Rs. 80",
+    "category": "khada",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+  {
+
+  }
+]
