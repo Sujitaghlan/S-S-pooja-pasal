@@ -1,8 +1,8 @@
 import type { Route } from "./+types/home";
-import Main from "~/components/Main/Main";
-import Products from "~/components/Products/Products";
-import AboutUs from "~/components/about-us/AboutUs";
-import Testimonials from "~/components/testimonials/Testimonials";
+import Main from "~/features/Main/Main";
+import Products from "~/features/Products/Products";
+import AboutUs from "~/features/about-us/AboutUs";
+import Testimonials from "~/features/testimonials/Testimonials";
 //import Footer from "~/components/footer/Footer";
 
 

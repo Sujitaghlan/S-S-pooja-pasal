@@ -19,8 +19,10 @@ const Login = () => {
     e.preventDefault();
     try{
       const res = await axios.post(url, userCredentials);
-      console.log("Login successful");
-      navigate('/home');
+      if(res.status===200){
+        console.log("Login successful");
+        navigate('/home');
+      }
     }catch(err:any){
       if(err.response && err.response.status === 404){
         console.log("User Not Found");

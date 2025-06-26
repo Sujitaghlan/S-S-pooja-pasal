@@ -14,12 +14,12 @@ interface Product {
 
 const Products = () => {
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
-  const [isOpen, setIsOpen] = useState<Boolean>(false);
+  const [isOpen, setIsOpen] = useState<boolean>(false);
 
   const viewProduct = (product:Product) => {
     console.log("Product clicked:", product);
-    setIsOpen(true);
     setSelectedProduct(product);
+    setIsOpen(true);
   }
   
   console.log("dd", selectedProduct);
@@ -31,7 +31,7 @@ const Products = () => {
       </div>
       <div className='flex gap-2'>
         {
-          products.map((product, index) => (
+          products.slice(1,5).map((product, index) => (
             <Card
             key={product.id}
         className="max-w-sm"

@@ -26,7 +26,7 @@ const login = async (req, res) => {
   if(existingUser){
     const isValidPassword = bcrypt.compareSync(password, existingUser.password);
     if(!isValidPassword){
-      res.status(401).json({message: "Incorrect password"});
+      res.status(401).json({message: "Incorrect credentials"});
     }else{
       res.status(200).json({message: "Login Successfull"});
     }

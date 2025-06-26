@@ -8,31 +8,255 @@
   "image": "/images/logo.png"
   },
   {
-    "id": 101,
-    "name": "chamba",
-    "price": "Rs. 120",
-    "category": "deathItems",
+    "id": 102,
+    "name": "supari",
+    "price": "Rs. 1100",
+    "category": "poojaItems",
     "quantity": "1 kg", 
     "image": "/images/logo.png"
   },
   {
-    "id": 102,
-    "name": "dhoop",
-    "price": "Rs. 20",
+    "id": 103,
+    "name": "jau",
+    "price": "Rs. 100",
+    "category": "poojaItems",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 104,
+    "name": "teel",
+    "price": "Rs. 360",
+    "category": "poojaItems",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 105,
+    "name": "phool lava dhaanko",
+    "price": "Rs. 450",
+    "category": "poojaItems",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 106,
+    "name": "dang dhoop",
+    "price": "Rs. 450",
     "category": "dhoop",
-    "quantity": "1 packet", 
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 107,
+    "name": "sano rakshyabandhan",
+    "price": "Rs. 120",
+    "category": "poojaItems",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 108,
+    "name": "thulo rakshyabandhan",
+    "price": "Rs. 102200",
+    "category": "poojaItems",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 109,
+    "name": "nawagraha pkt",
+    "price": "Rs. 120",
+    "category": "poojaItems",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 110,
+    "name": "annagraha pkt",
+    "price": "Rs. 65",
+    "category": "poojaItems",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 111,
+    "name": "gokul dhoop",
+    "price": "Rs. 450",
+    "category": "dhoop",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 112,
+    "name": "lagaune janai",
+    "price": "Rs. 4",
+    "category": "poojaItems",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 113,
+    "name": "chadaune janai",
+    "price": "Rs. 65",
+    "category": "poojaItems",
+    "quantity": "1", 
     "image": "/images/logo.png"
   },
   {
-    "id": 103,
-    "name": "lungdar",
+    "id": 114,
+    "name": "pancharangi dhaago",
+    "price": "Rs. 450",
+    "category": "dhoop",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+  {
+    "id": 115,
+    "name": "rato seto kapada",
+    "price": "Rs. 1100",
+    "category": "poojaItems",
+    "quantity": "1 than", 
+    "image": "/images/logo.png"
+  },
+  {
+    "id": 116,
+    "name": "pahelo kalo kapada",
+    "price": "Rs. 1100",
+    "category": "poojaItems",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 117,
+    "name": "pitambari kapada",
+    "price": "Rs. 2000",
+    "category": "poojaItems",
+    "quantity": "1 than", 
+    "image": "/images/logo.png"
+  },
+  {
+    "id": 118,
+    "name": "astagandhha chandan",
+    "price": "Rs. 50",
+    "category": "poojaItems",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 119,
+    "name": "bhopi chandan",
+    "price": "Rs. 40",
+    "category": "poojaItems",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 120,
+    "name": "roli chandan",
+    "price": "Rs. 50",
+    "category": "poojaItems",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 121,
+    "name": "bharat darshan",
+    "price": "Rs. 200",
+    "category": "dhoop",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 122,
+    "name": "kon dhup sano chandan",
+    "price": "Rs. 40",
+    "category": "poojaItems",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 123,
+    "name": "cup dhoop gokul",
+    "price": "Rs. 150",
+    "category": "dhoop",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 124,
+    "name": "panchabuddha agarbatti",
+    "price": "Rs. 120",
+    "category": "poojaItems",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 125,
+    "name": "gopi chandan powder",
+    "price": "Rs. 100",
+    "category": "poojaItems",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 126,
+    "name": "kanchanjungha sano",
+    "price": "Rs. 35",
+    "category": "dhoop",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 127,
+    "name": "kanchanjungha thulo",
+    "price": "Rs. 100",
+    "category": "poojaItems",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 128,
+    "name": "Mangaldeep",
+    "price": "Rs. 100",
+    "category": "dhoop",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 129,
+    "name": "saal dhoop chandan",
+    "price": "Rs. 250",
+    "category": "dhoop",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 130,
+    "name": "pitambari powder",
+    "price": "Rs. 50",
+    "category": "poojaItems",
+    "quantity": "1", 
+    "image": "/images/logo.png"
+  },
+   {
+    "id": 131,
+    "name": "gilo dhoop",
+    "price": "Rs. 30",
+    "category": "dhoop",
+    "quantity": "1 piece", 
+    "image": "/images/logo.png"
+  },
+  {
+    "id": 132,
+    "name": "khoola kapoor",
     "price": "Rs. 190",
     "quantity": "1 piece",
-    "category": "lungdar", 
+    "category": "deathItems", 
     "image": "/images/logo.png"
   },
   {
-    "id": 104,
+    "id": 133,
     "name": "khada",
     "price": "Rs. 80",
     "category": "khada",
@@ -40,6 +264,11 @@
     "image": "/images/logo.png"
   },
   {
-
+    "id": 134,
+    "name": "jau",
+    "price": "Rs. 100",
+    "category": "poojaItems",
+    "quantity": "1 kg", 
+    "image": "/images/logo.png"
   }
 ]
